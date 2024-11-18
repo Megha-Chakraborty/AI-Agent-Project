@@ -1,4 +1,4 @@
-# AI Agent Project  
+# AI Agent Dashboard  
 
 ## Project Description  
 The **AI Agent Dashboard** is a versatile tool designed to simplify and automate data retrieval and processing tasks. It integrates with Google Sheets and allows users to execute custom search queries, retrieve relevant information from the web, and update their datasets dynamically. The dashboard supports CSV uploads, Google Sheets integration, and efficient handling of API-driven tasks.
