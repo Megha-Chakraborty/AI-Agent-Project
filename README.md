@@ -17,7 +17,7 @@ Clone or download the project to your local machine.
 ### 3. Install Dependencies  
 Install the necessary libraries by running:  
 ```bash  
-pip install -r requirements.txt  
+pip install -r required libraries  
 ```
 ### 4. Configure API Keys and Environment Variables
 To run the application successfully, you need to configure API keys and environment variables.
