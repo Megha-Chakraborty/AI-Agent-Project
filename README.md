@@ -43,11 +43,11 @@ To run the application successfully, you need to configure API keys and environm
   - Input your query in the designated field within the dashboard interface, and the AI Agent will process the request and display the relevant results.
  
   ## API Keys and Environment Variables
-  - To run the application successfully, you need to enter your API keys and credentials.
-  1. SERPAPI_KEY: Obtain your API key from SerpApi.
-  2. OPENAI_API_KEY: Create an API key from OpenAI.
-  3. GOOGLE_APPLICATION_CREDENTIALS: Download the Google credentials file from your Google Cloud Console.
-  - Ensure these credentials are correctly entered in the .env file for smooth operation.
+  To run the application successfully, you need to enter your API keys and credentials.
+  - SERPAPI_KEY: Obtain your API key from SerpApi.
+  - OPENAI_API_KEY: Create an API key from OpenAI.
+  - GOOGLE_APPLICATION_CREDENTIALS: Download the Google credentials file from your Google Cloud Console.
+Ensure these credentials are correctly entered in the .env file for smooth operation.
 
   ## Optional Features
   - CSV Uploads: Upload CSV files directly to the dashboard for automatic processing and updates.
